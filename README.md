@@ -1,3 +1,13 @@
+# RoadPowers — BlackRoad agentic skills framework and software development methodology.
+
+> Part of the [BlackRoad OS](https://blackroad.io) sovereign technology ecosystem.
+> Licensed under [BlackRoad OS, Inc. Proprietary License](./LICENSE).
+
+[![BlackRoad](https://img.shields.io/badge/BlackRoad-OS-black?style=flat-square)](https://blackroad.io)
+[![License](https://img.shields.io/badge/License-Proprietary-black?style=flat-square)](./LICENSE)
+
+---
+
 # Superpowers
 
 Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable "skills" and some initial instructions that make sure your agent uses them.
